@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+variables {
+    --Grey: rgba(252, 250, 245, 1);
+}
+
+.canvas {
+    max-width: 1440px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.sub-container {
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+
+body {
+    background-color: rgba(7, 37, 36, 1);
+    font-family: 'Geist', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 0.875rem;
+    color: rgba(252, 250, 245, 1);
+    line-height: 22px;
+}
+
+h1 {
+    font-size: 2rem;
+    line-height: 40px;
+    font-weight: 700;
+    color: rgba(18, 28, 64, 1);
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 32px;
+}

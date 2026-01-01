@@ -1,0 +1,40 @@
+{
+    "overview": {
+        "tag": "The Topanga Way",
+        "title": "More Than Just Tools—A True Partner in Waste Reduction",
+        "description": "We make sustainability easy with products designed to support all of your waste efforts, a dedicated client success team, on-demand training materials, and robust integrations."
+    },
+    "faqs": [
+        {
+            "title": "Ease of Use",
+            "small": "Ease of Use",
+            "heading": "One platform. Every<br/>touchpoint.",
+            "text": "Topanga brings your waste reduction efforts under one roof—seamlessly connected, fully optimized.",
+            "image": "/assets/images/faq-right.png",
+            "buttons": [
+                "REUSEPASS",
+                "STREAMLINE"
+            ]
+        },
+        {
+            "title": "Integrations",
+            "small": "Integrations",
+            "heading": "Connect with<br/>your tools",
+            "text": "Works with POS, reporting tools, and more.",
+            "image": "/assets/images/faq-right.png",
+            "buttons": [
+                "VIEW INTEGRATIONS"
+            ]
+        },
+        {
+            "title": "Onboarding",
+            "small": "Onboarding",
+            "heading": "Fast & Simple<br/>Onboarding",
+            "text": "Get started quickly with guided onboarding.",
+            "image": "/assets/images/faq-right.png",
+            "buttons": [
+                "GET STARTED"
+            ]
+        }
+    ]
+}
